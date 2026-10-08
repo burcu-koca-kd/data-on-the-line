@@ -1,6 +1,6 @@
 # Data on the Line
 
-*A case in demand forecasting and line balancing · KoçDigital*
+*Turning Demand Insights into Balanced Production · Case study · KoçDigital*
 
 Nimbus Dynamics makes EC fan modules for data centre cooling. Can its assembly line keep up with demand in January–March 2026? This repository holds the student materials for the case. All data are fictional and for teaching purposes only.
 
