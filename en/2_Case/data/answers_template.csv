@@ -1,0 +1,16 @@
+Key,Value,Description
+takt_jan,,January takt time (s)
+takt_feb,,February takt time (s)
+takt_mar,,March takt time (s)
+design_month,,Month you designed the line for (YYYY-MM)
+planned_production_design,,"Planned production in your design month, all products (units)"
+mix_nd100,,ND100 share of planned production in your design month (0–1)
+mix_nd200,,ND200 share (0–1)
+mix_nd300,,ND300 share (0–1)
+lower_bound_design,,Lower bound on the number of stations at your design takt
+stations,,Number of stations you propose
+current_bottleneck_load,,"Weighted load of the busiest station on the current line, at your mix (s)"
+urgent_takt,,Takt time after the URGENT order (s)
+urgent_lower_bound,,Lower bound on the number of stations after the URGENT order
+urgent_decision,,add_stations or prebuild
+prebuild_units,,Units to build early in January (if you prebuild)

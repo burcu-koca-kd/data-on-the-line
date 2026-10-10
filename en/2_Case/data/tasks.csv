@@ -1,0 +1,18 @@
+Task,Task_Name,Process_Group,ND100_sec,ND200_sec,ND300_sec
+T01,Fan housing preparation and serial number assignment,Mechanical,28,29,30
+T02,Rotor insertion,Mechanical,22,22,23
+T03,Stator mounting,Mechanical,38,41,50
+T04,Shaft and bearing alignment,Mechanical,18,19,19
+T05,Motor flange fastening,Mechanical,31,33,34
+T06,Cable harness preparation,Electrical,40,44,49
+T07,Hall-effect and temperature sensor mounting,Electrical,19,21,23
+T08,Drive board mounting,Electrical,31,35,37
+T09,Power terminal wiring,Electrical,29,33,47
+T10,Thermal compound and heat sink fitting,Mechanical,13,20,21
+T11,Communication and monitoring module mounting,Electrical,27,29,32
+T12,Impeller mounting and torque sequence,Mechanical,37,38,39
+T13,Firmware loading and parameter setup,Software/Test,27,31,37
+T14,Electrical safety test,Software/Test,35,39,44
+T15,Balancing and vibration test,Software/Test,20,24,26
+T16,Mounting kit preparation,Packaging,25,25,25
+T17,"Labelling, final inspection and packaging",Packaging,21,22,22

@@ -1,0 +1,4 @@
+Month,Working_Days,Shifts_per_Day,Hours_per_Shift,Break_Hours_per_Shift,Daily_Maintenance_Hours,Additional_Stop_Hours,Note
+2026-01,21,2,7.5,0.5,0.25,0.0,1 Ocak: Yılbaşı tatili
+2026-02,20,2,7.5,0.5,0.25,27.5,"Arıza tahmin sistemi uyarısı: 5. istasyonun motoru değiştirilecek, hat 2 iş günü duracak"
+2026-03,21,2,7.5,0.5,0.25,0.0,20 Mart: Ramazan Bayramı tatili

@@ -1,0 +1,16 @@
+Key,Value,Description
+takt_jan,,Ocak takt süresi (sn)
+takt_feb,,Şubat takt süresi (sn)
+takt_mar,,Mart takt süresi (sn)
+design_month,,Hattı tasarladığınız ay (YYYY-AA)
+planned_production_design,,"Tasarım ayının planlanan üretimi, bütün ürünlerin toplamı (adet)"
+mix_nd100,,ND100'ün tasarım ayındaki planlanan üretim payı (0–1)
+mix_nd200,,ND200 payı (0–1)
+mix_nd300,,ND300 payı (0–1)
+lower_bound_design,,Tasarım ayının takt süresiyle istasyon sayısının alt sınırı
+stations,,Önerdiğiniz istasyon sayısı
+current_bottleneck_load,,"Mevcut hatta en yoğun istasyonun, sizin karmanızla ağırlıklı yükü (sn)"
+urgent_takt,,ACİL siparişten sonraki takt süresi (sn)
+urgent_lower_bound,,ACİL siparişten sonra istasyon sayısının alt sınırı
+urgent_decision,,add_stations ya da prebuild
+prebuild_units,,Ocakta önden üretilecek adet (önden üretimi seçtiyseniz)

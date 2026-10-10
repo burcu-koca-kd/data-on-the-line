@@ -1,0 +1,4 @@
+Product,Product_Name,Inventory_2025_12_31,First_Pass_Yield,Note
+ND100,Standard,780,0.985,EC fan module for precision air-conditioning units in conventional data halls
+ND200,Plus,610,0.98,High-airflow EC fan module for high-density data halls
+ND300,Pro,430,0.975,Smart EC fan module for the dry coolers of AI data halls

@@ -1,0 +1,10 @@
+Month,Product,Product_Name,Promo,Promo_Status,Planned_Price_EUR,List_Price_EUR,Working_Days,Calendar_Note
+2026-01,ND100,Standard,0,,112.57,113.14,21,
+2026-01,ND200,Plus,0,,146.34,147.08,21,
+2026-01,ND300,Pro,1,approved,176.07,192.34,21,
+2026-02,ND100,Standard,0,,112.57,113.14,20,
+2026-02,ND200,Plus,0,,146.34,147.08,20,
+2026-02,ND300,Pro,0,,191.38,192.34,20,
+2026-03,ND100,Standard,1,pending,101.32,113.14,21,Ramazan Bayramı
+2026-03,ND200,Plus,0,,146.34,147.08,21,Ramazan Bayramı
+2026-03,ND300,Pro,0,,191.38,192.34,21,Ramazan Bayramı

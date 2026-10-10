@@ -1,0 +1,18 @@
+Task,Task_Name,Process_Group,ND100_sec,ND200_sec,ND300_sec
+T01,Fan gövdesi hazırlığı ve seri numarası atanması,Mekanik,28,29,30
+T02,Rotor yerleştirme,Mekanik,22,22,23
+T03,Stator montajı,Mekanik,38,41,50
+T04,Mil ve rulman hizalaması,Mekanik,18,19,19
+T05,Motor flanşının sabitlenmesi,Mekanik,31,33,34
+T06,Kablo demeti hazırlığı,Elektrik,40,44,49
+T07,Hall ve sıcaklık sensörlerinin montajı,Elektrik,19,21,23
+T08,Sürücü kartı montajı,Elektrik,31,35,37
+T09,Güç terminali kablolaması,Elektrik,29,33,47
+T10,Termal macun ve ısı emici montajı,Mekanik,13,20,21
+T11,Haberleşme ve izleme modülü montajı,Elektrik,27,29,32
+T12,Pervane montajı ve cıvataların sırayla torklanması,Mekanik,37,38,39
+T13,Yazılım yükleme ve parametre ayarı,Yazılım/Test,27,31,37
+T14,Elektriksel güvenlik testi,Yazılım/Test,35,39,44
+T15,Balans ve titreşim testi,Yazılım/Test,20,24,26
+T16,Montaj kiti hazırlığı,Paketleme,25,25,25
+T17,"Etiketleme, son kontrol ve paketleme",Paketleme,21,22,22
