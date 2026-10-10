@@ -31,5 +31,6 @@ When a notebook runs on Colab it downloads its data files by itself. Colab may w
 | Notebook'lar nasıl açılır? | [Başlarken.pdf](tr/1_Haz%C4%B1rl%C4%B1k/Ba%C5%9Flarken.pdf) |
 | 45. dakika: tahmin dosyasını yükleyin | [45. dakika tahmini formu](https://forms.gle/8aogMg4kcKzk1ipbA) |
 | 115. dakika: final teslim | [Final teslim formu](https://forms.gle/zkj9uEyNLHyWTqFs9) |
+ | Part 2 Cevaplar : Üretim Planı ve Takt : [https://forms.gle/CcnLCmJ9gquxEw3BA] |
 
 Notebook Colab'de çalışırken veri dosyalarını kendisi indirir. Colab, notebook'un Google tarafından yazılmadığı uyarısını gösterebilir; **Yine de çalıştır**'ı seçin. Şifreli iki dosya, salonda duyurulan şifrelerle notebook'un içinde açılır.
