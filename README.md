@@ -16,6 +16,7 @@ Nimbus Dynamics makes EC fan modules for data centre cooling. Can its assembly l
 | How to open the notebooks | [Getting_Started.pdf](en/1_Preparation/Getting_Started.pdf) |
 | Minute 45: upload your forecast | [Minute-45 forecast form](https://forms.gle/8aogMg4kcKzk1ipbA) |
 | Minute 115: final submission | [Final submission form](https://forms.gle/zkj9uEyNLHyWTqFs9) |
+| After the session: solution notebook | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/burcu-koca-kd/data-on-the-line/blob/main/en/3_Solution/Case_Solution_Notebook.ipynb) |
 
 When a notebook runs on Colab it downloads its data files by itself. Colab may warn that the notebook wasn't written by Google; choose **Run anyway**. The two password-protected files are unlocked inside the notebook with the passwords announced in the room.
 
@@ -32,5 +33,6 @@ When a notebook runs on Colab it downloads its data files by itself. Colab may w
 | 45. dakika: tahmin dosyasını yükleyin | [45. dakika tahmini formu](https://forms.gle/8aogMg4kcKzk1ipbA) |
 | 115. dakika: final teslim | [Final teslim formu](https://forms.gle/zkj9uEyNLHyWTqFs9) |
  | Part 2 Cevaplar : Üretim Planı ve Takt : [https://forms.gle/CcnLCmJ9gquxEw3BA] |
+| Oturumdan sonra: çözüm notebook'u | [![Colab'de aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/burcu-koca-kd/data-on-the-line/blob/main/tr/3_%C3%87%C3%B6z%C3%BCm/Vaka_%C3%87%C3%B6z%C3%BCm_Notebook.ipynb) |
 
 Notebook Colab'de çalışırken veri dosyalarını kendisi indirir. Colab, notebook'un Google tarafından yazılmadığı uyarısını gösterebilir; **Yine de çalıştır**'ı seçin. Şifreli iki dosya, salonda duyurulan şifrelerle notebook'un içinde açılır.
